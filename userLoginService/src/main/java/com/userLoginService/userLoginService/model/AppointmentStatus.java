@@ -1,2 +1,7 @@
-package com.userLoginService.userLoginService.model;public enum AppointmentStatus {
+package com.userLoginService.userLoginService.model;
+
+public enum AppointmentStatus {
+    SCHEDULED,
+    CANCELLED,
+    COMPLETED
 }
